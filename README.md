@@ -10,3 +10,7 @@ Teknologi yang digunakan :
 Tujuan : Menganalisis sentimen ulasan Hotel Keprabon untuk memahami pandangan pelanggan dan meningkatkan kualitas hotel.
 
 Hasil: Hasil analisis sentimen dapat digunakan untuk memahami letak kepuasan dan ketidakpuasan pelanggan, serta memberikan rekomendasi untuk perbaikan dan pengembangan hotel di masa depan
+
+Author : 
+Rajendra Nandana Hernanto
+- www.linkedin.com/in/rajendra-nandana-8238222a5
