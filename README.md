@@ -14,3 +14,4 @@ Hasil: Hasil analisis sentimen dapat digunakan untuk memahami letak kepuasan dan
 Author : 
 Rajendra Nandana Hernanto
 - www.linkedin.com/in/rajendra-nandana-8238222a5
+- rajendranandana93@gmail.com
